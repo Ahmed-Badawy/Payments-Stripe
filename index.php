@@ -22,7 +22,7 @@
         data-key="<?php echo $stripe['publishable']; ?>"
         data-image="logo.jpg"
         data-name="Stripe Test Application"
-        data-label= "pay me pitch"
+        data-label= "Pay Me Bitch"
         data-description = "buy the cake"
         data-email="<?php echo $email; ?>"
         data-currency="usd"
